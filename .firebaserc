@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "barberapp-e1eff",
+    "BarberApp": "barberapp-e1eff"
+  },
+  "targets": {}
+}
